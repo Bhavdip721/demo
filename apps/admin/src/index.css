@@ -1,0 +1,5 @@
+@import "@query-desk/style/globals.css";
+
+@theme {
+  --radius-xxs: 2rem;
+}

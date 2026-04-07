@@ -1,0 +1,19 @@
+{
+  "name": "@query-desk/style",
+  "version": "0.0.0",
+  "private": false,
+  "type": "module",
+  "exports": {
+    ".": {
+      "style": "./globals.css"
+    },
+    "./globals.css": "./globals.css"
+  },
+  "files": [
+    "globals.css"
+  ],
+  "devDependencies": {},
+  "peerDependencies": {
+    "tailwindcss": "^4"
+  }
+}

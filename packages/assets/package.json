@@ -1,0 +1,16 @@
+{
+  "name": "@query-desk/assets",
+  "version": "0.0.0",
+  "private": false,
+  "type": "module",
+  "exports": {
+    ".": "./index.ts",
+    "./images/*": "./images/*",
+    "./svg/*": "./svg/*"
+  },
+  "files": [
+    "index.ts",
+    "images",
+    "svg"
+  ]
+}
